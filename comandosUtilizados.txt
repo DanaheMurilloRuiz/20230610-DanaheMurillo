@@ -1,0 +1,56 @@
+    1  git --v
+    2  git --version
+    3  ls
+    4  cd Documents/
+    5  ls
+    6  cd ExamenGIT/
+    7  git clone https://github.com/DanaheMurilloRuiz/20230610-DanaheMurillo.git
+    8  touch comandos.txt main.js index.html
+    9  ls
+   10  cd 20230610-DanaheMurillo/
+   11  touch comandos.txt main.js index.html
+   12  git add .
+   13  git commit -m "commit 01 de DanaheMurillo"
+   14  ls
+   15  git add .
+   16  git commit -m "Commit 01 de DanaheMurillo"
+   17  git config --global user.email "danahe.murillo.ruiz@gmail.com"
+   18  git config --global user.name "DanaheMurillo"
+   19  git commit -m "Commit 01 de DanaheMurillo"
+   20  git push origin main
+   21  git commit -m "Commit 01 de DanaheMurillo"
+   22  git push origin main
+   23  git add .
+   24  git commit -m "commit 01 de Danahe Murillo"
+   25  [200~
+   26  git checkout -b feature01
+   27  mkdir Terminal Hardware
+   28  touch Terminal/resumen.txt Hardware/resumen.txt
+   29  git add .
+   30  git commit -m "commit 02 de Danahe Murillo"
+   31  git push origin feature01
+   32  git checkout -b feature02
+   33  ls
+   34  ls Terminal/
+   35  ls
+   36  cd terminal
+   37  ls
+   38  cd resumen.txt
+   39  nano resumen.txt
+   40  nano resumen.txt
+   41  git add .
+   42  git commit -m "commit 02 de Danahe Murillo"
+   43  git push origin feature02
+   44  git mv comandos.txt comandosUtilizados.txt
+   45  ls
+   46  cd ..
+   47  git mv comandos.txt comandosUtilizados.txt
+   48  history > comandosUtilizados.txt
+   49  git add .
+   50  git commit -m "commit 04 de Danahe Murillo"
+   51  git push origin main
+   52  git main
+   53  git checkout main
+   54  ls
+   55  git mv comandos.txt comandosUtilizados.txt
+   56  history > comandosUtilizados.txt
